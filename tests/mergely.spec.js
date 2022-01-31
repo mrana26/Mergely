@@ -3,6 +3,7 @@ const CodeMirror = require('CodeMirror');
 const mergely = require('../src/mergely');
 const macbeth = require('./data/macbeth').join('\n');
 const $ = jQuery;
+cd y
 
 (function($) {
     $.fn.hasScrollBar = function() {
